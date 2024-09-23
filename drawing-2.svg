@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitma.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="drawing-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.45344416"
+     inkscape:cx="396.96177"
+     inkscape:cy="614.18808"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5">
+      <rect
+         style="fill:#b3ff80;fill-opacity:0.838174;stroke:#28170b;stroke-width:0"
+         id="rect1"
+         width="171.44516"
+         height="252.24927"
+         x="27.527321"
+         y="20.827349" />
+      <rect
+         style="fill:#008000;fill-opacity:0.838174;stroke:#008000;stroke-width:2.23019;stroke-dasharray:none"
+         id="rect3"
+         width="167.74036"
+         height="246.92551"
+         x="23.493286"
+         y="19.006683" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Consolas;-inkscape-font-specification:'Consolas Italic';fill:#ffffff;fill-opacity:1;stroke:#28170b;stroke-width:0;stroke-dasharray:none"
+         x="52.449509"
+         y="141.68768"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="141.68768">1G        ₦250</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="157.56268"
+           id="tspan16">2G        ₦450</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="173.43768"
+           id="tspan17">3G        ₦830</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="189.31268"
+           id="tspan18">4G        ₦1150</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="205.18768"
+           id="tspan20">5G        ₦1500</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="221.06268"
+           id="tspan21">10G       ₦2700</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="236.93768"
+           id="tspan22">12G       ₦3600</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:12.7px;fill:#ffffff;fill-opacity:1;stroke-width:0"
+           x="52.449509"
+           y="252.81268"
+           id="tspan19" /></text>
+      <g
+         id="g4"
+         transform="translate(2.9174853,8.7524558)">
+        <circle
+           style="fill:#008000;fill-opacity:0.838174;stroke:#f4d7d7;stroke-width:1.8;stroke-dasharray:none"
+           id="path4"
+           cx="102.69548"
+           cy="60.100197"
+           r="32.092339" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#008000;fill-opacity:0.838174;stroke:#f4d7d7;stroke-width:1.5;stroke-dasharray:none"
+           x="94.732407"
+           y="62.246769"
+           id="text4"
+           transform="scale(0.97543312,1.0251856)"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:1.5;stroke-dasharray:none"
+             x="94.732407"
+             y="62.246769">glo</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
