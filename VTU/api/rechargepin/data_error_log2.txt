@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Server Connection Error"} Failed to connect to gladtidingsapihub.com port 443 after 1002 ms: Couldn't connect to server https://gladtidingsapihub.com/api/rechargepin/

@@ -1,0 +1,5 @@
+[11-Apr-2023 07:51:28 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/Airtime.php on line 78
+[11-Apr-2023 07:51:28 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/Airtime.php on line 78
+[11-Apr-2023 07:52:53 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/Airtime.php on line 78
+[11-Apr-2023 07:52:53 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/Airtime.php on line 78
+[19-Nov-2023 10:36:03 Africa/Lagos] PHP Warning:  Attempt to read property "AccessToken" on null in /home/swiftmob/public_html/core/Controllers/Airtime.php on line 128

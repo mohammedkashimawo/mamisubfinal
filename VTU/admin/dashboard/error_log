@@ -1,0 +1,682 @@
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 03:51:23 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[03-Jan-2023 04:28:39 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[10-Apr-2023 22:23:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminController::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php:330
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#3 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php on line 330
+[10-Apr-2023 22:52:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminModel::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php:456
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(330): AdminController->getDataPins()
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#3 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#4 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 456
+[10-Apr-2023 22:52:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminModel::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php:456
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(330): AdminController->getDataPins()
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#3 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#4 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 456
+[10-Apr-2023 22:52:57 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method AdminModel::getDataPins() in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php:456
+Stack trace:
+#0 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(330): AdminController->getDataPins()
+#1 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(293): getDataIfAny('data-pins')
+#2 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/includes/route.php(282): createView('data-pins')
+#3 /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/index.php(1): require_once('/home/dharehx/j...')
+#4 {main}
+  thrown in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 456
+[13-Apr-2023 22:44:17 Africa/Lagos] PHP Notice:  Undefined index: searchfor in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/transactions.php on line 41
+[14-Apr-2023 17:19:09 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 33
+[15-Apr-2023 08:59:37 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/dharehx/jossyfeydataservice.com.ng/core/Controllers/AdminController.php on line 33
+[15-Apr-2023 11:34:41 Africa/Lagos] PHP Notice:  Undefined index: searchfor in /home/dharehx/jossyfeydataservice.com.ng/admin/dashboard/transactions.php on line 41
+[08-Nov-2023 13:05:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 13:05:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 13:06:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 13:06:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 13:06:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 13:06:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 19:04:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 19:04:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 19:06:21 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[08-Nov-2023 19:07:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 19:07:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 19:11:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 19:11:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 20:51:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 20:51:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 20:56:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 20:56:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 20:57:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 20:57:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 21:00:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 21:00:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 21:01:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 21:01:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Nov-2023 21:03:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Nov-2023 21:03:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 06:19:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 06:19:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 09:19:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 09:19:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 09:20:03 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[09-Nov-2023 11:55:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 11:55:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 14:18:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 14:18:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 14:18:38 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[09-Nov-2023 19:47:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 19:47:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 21:15:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 21:15:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Nov-2023 21:15:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[09-Nov-2023 21:15:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[10-Nov-2023 08:22:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[10-Nov-2023 08:22:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[10-Nov-2023 13:33:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[10-Nov-2023 13:33:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[10-Nov-2023 16:17:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[10-Nov-2023 16:17:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[10-Nov-2023 20:01:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[10-Nov-2023 20:01:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[10-Nov-2023 20:02:47 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[10-Nov-2023 20:58:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[10-Nov-2023 20:58:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 10:10:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 10:10:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 10:12:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 10:12:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 12:02:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 12:02:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 20:45:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 20:45:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 20:45:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 20:45:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 20:48:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 20:48:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 21:34:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 21:34:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[11-Nov-2023 21:35:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[11-Nov-2023 21:35:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[12-Nov-2023 20:14:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[12-Nov-2023 20:14:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[12-Nov-2023 22:18:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[12-Nov-2023 22:18:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[13-Nov-2023 16:38:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[13-Nov-2023 16:38:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[13-Nov-2023 22:34:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[13-Nov-2023 22:34:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[14-Nov-2023 09:59:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[14-Nov-2023 09:59:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[14-Nov-2023 20:22:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[14-Nov-2023 20:22:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[14-Nov-2023 22:09:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[14-Nov-2023 22:09:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[14-Nov-2023 23:29:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[14-Nov-2023 23:29:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[14-Nov-2023 23:36:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[14-Nov-2023 23:36:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[14-Nov-2023 23:48:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[14-Nov-2023 23:48:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 08:23:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 08:23:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 08:24:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 08:24:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 10:44:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 10:44:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 11:02:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 11:02:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 11:31:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 11:31:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 20:02:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 20:02:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 20:30:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 20:30:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[15-Nov-2023 21:49:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[15-Nov-2023 21:49:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[16-Nov-2023 08:54:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[16-Nov-2023 08:54:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[16-Nov-2023 10:09:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[16-Nov-2023 10:09:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[16-Nov-2023 13:53:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[16-Nov-2023 13:53:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[16-Nov-2023 16:17:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[16-Nov-2023 16:17:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[16-Nov-2023 19:58:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[16-Nov-2023 19:58:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[16-Nov-2023 22:09:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[16-Nov-2023 22:09:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[17-Nov-2023 06:49:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[17-Nov-2023 06:49:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[17-Nov-2023 09:29:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[17-Nov-2023 09:29:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[17-Nov-2023 09:55:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[17-Nov-2023 09:55:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[17-Nov-2023 19:50:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[17-Nov-2023 19:50:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[17-Nov-2023 19:52:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[17-Nov-2023 19:52:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 08:25:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 08:25:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 11:33:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 11:33:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 12:23:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 12:23:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 12:36:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 12:36:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 13:44:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 13:44:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 19:29:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 19:29:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 19:47:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 19:47:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[18-Nov-2023 19:49:59 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[18-Nov-2023 20:30:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[18-Nov-2023 20:30:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 06:49:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 06:49:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 06:53:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 06:53:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 10:04:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 10:04:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 13:00:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 13:00:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 13:09:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 13:09:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 15:08:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 15:08:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 15:10:41 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[19-Nov-2023 15:16:29 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[19-Nov-2023 15:19:32 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[19-Nov-2023 15:30:51 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[19-Nov-2023 18:55:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 18:55:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 19:40:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 19:40:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 19:51:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 19:51:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[19-Nov-2023 20:59:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[19-Nov-2023 20:59:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[20-Nov-2023 07:11:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[20-Nov-2023 07:11:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[20-Nov-2023 08:48:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[20-Nov-2023 08:48:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[20-Nov-2023 11:15:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[20-Nov-2023 11:15:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[20-Nov-2023 15:32:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[20-Nov-2023 15:32:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[20-Nov-2023 19:35:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[20-Nov-2023 19:35:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[20-Nov-2023 19:37:07 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[20-Nov-2023 22:16:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[20-Nov-2023 22:16:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[21-Nov-2023 09:25:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[21-Nov-2023 09:25:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[21-Nov-2023 12:02:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[21-Nov-2023 12:02:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[21-Nov-2023 16:20:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[21-Nov-2023 16:20:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[21-Nov-2023 20:05:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[21-Nov-2023 20:05:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 07:54:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 07:54:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 11:44:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 11:44:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 11:44:54 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[22-Nov-2023 13:26:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 13:26:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 13:49:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 13:49:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 14:03:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 14:03:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 19:35:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 19:35:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[22-Nov-2023 20:50:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[22-Nov-2023 20:50:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[23-Nov-2023 06:58:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[23-Nov-2023 06:58:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[23-Nov-2023 06:59:19 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[23-Nov-2023 11:38:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[23-Nov-2023 11:38:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[23-Nov-2023 17:41:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[23-Nov-2023 17:41:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[23-Nov-2023 19:22:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[23-Nov-2023 19:22:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[23-Nov-2023 19:23:49 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[23-Nov-2023 19:24:08 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[24-Nov-2023 09:41:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[24-Nov-2023 09:41:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[24-Nov-2023 20:27:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[24-Nov-2023 20:27:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[24-Nov-2023 20:28:37 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[25-Nov-2023 14:24:43 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[25-Nov-2023 14:24:43 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[25-Nov-2023 14:26:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[25-Nov-2023 14:26:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[25-Nov-2023 15:38:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[25-Nov-2023 15:38:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[25-Nov-2023 19:48:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[25-Nov-2023 19:48:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[25-Nov-2023 21:54:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[25-Nov-2023 21:54:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[25-Nov-2023 22:11:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[25-Nov-2023 22:11:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[25-Nov-2023 22:12:15 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[26-Nov-2023 19:50:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 19:50:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 19:52:30 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[26-Nov-2023 20:08:01 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[26-Nov-2023 20:08:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 20:08:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 20:27:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 20:27:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 20:50:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 20:50:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:06:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:06:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:21:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:21:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:30:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:30:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:39:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:39:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:45:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:45:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:49:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:49:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[26-Nov-2023 22:52:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[26-Nov-2023 22:52:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 06:47:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 06:47:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 08:06:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 08:06:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 12:19:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 12:19:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 12:20:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 12:20:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 12:21:02 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[27-Nov-2023 17:19:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 17:19:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 20:14:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 20:14:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[27-Nov-2023 21:40:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[27-Nov-2023 21:40:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 10:09:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 10:09:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 10:10:40 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[28-Nov-2023 12:44:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 12:44:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 12:46:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 12:46:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 13:58:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 13:58:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 16:16:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 16:16:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 16:30:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 16:30:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 20:31:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 20:31:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 21:33:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 21:33:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 21:36:05 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[28-Nov-2023 21:47:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 21:47:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 21:47:49 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[28-Nov-2023 21:48:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[28-Nov-2023 21:48:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[28-Nov-2023 21:49:26 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[29-Nov-2023 08:45:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 08:45:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 08:52:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 08:52:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 08:53:30 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[29-Nov-2023 08:53:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 08:53:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 08:57:02 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 08:57:02 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 08:59:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 08:59:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 09:03:04 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[29-Nov-2023 09:06:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 09:06:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 09:09:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 09:09:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 11:33:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 11:33:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 12:01:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 12:01:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 12:02:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 12:02:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 15:04:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 15:04:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[29-Nov-2023 21:27:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[29-Nov-2023 21:27:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 09:56:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 09:56:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 09:57:40 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[30-Nov-2023 12:53:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 12:53:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 12:54:45 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[30-Nov-2023 13:04:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 13:04:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 14:39:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 14:39:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 19:37:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 19:37:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 19:38:19 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[30-Nov-2023 19:43:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 19:43:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:04:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:04:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:05:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:05:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:06:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:06:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:06:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:06:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:07:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:07:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:08:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:08:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 21:38:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 21:38:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 22:42:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 22:42:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 22:43:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 22:43:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[30-Nov-2023 22:43:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[30-Nov-2023 22:43:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 10:28:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 10:28:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 13:56:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 13:56:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 14:22:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 14:22:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 14:23:21 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[01-Dec-2023 18:22:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 18:22:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 18:23:07 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[01-Dec-2023 20:49:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 20:49:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 22:34:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 22:34:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 23:08:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 23:08:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 23:15:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 23:15:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 23:32:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 23:32:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 23:34:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 23:34:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[01-Dec-2023 23:40:55 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[01-Dec-2023 23:56:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[01-Dec-2023 23:56:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 00:01:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 00:01:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 00:05:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 00:05:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 06:58:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 06:58:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 11:25:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 11:25:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 12:12:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 12:12:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 20:01:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 20:01:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 20:58:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 20:58:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 21:17:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 21:17:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[02-Dec-2023 21:46:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[02-Dec-2023 21:46:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 06:55:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[03-Dec-2023 06:55:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 20:08:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[03-Dec-2023 20:08:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 20:08:33 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[03-Dec-2023 20:11:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[03-Dec-2023 20:11:05 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 20:22:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[03-Dec-2023 20:22:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 20:43:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[03-Dec-2023 20:43:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 21:16:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[03-Dec-2023 21:16:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[03-Dec-2023 21:16:56 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[04-Dec-2023 10:50:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 10:50:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 12:23:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 12:23:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 13:36:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 13:36:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 13:42:31 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[04-Dec-2023 13:46:37 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[04-Dec-2023 13:54:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 13:54:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 14:00:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 14:00:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 14:00:44 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[04-Dec-2023 14:04:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 14:04:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 14:05:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 14:05:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 14:16:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 14:16:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 14:21:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 14:21:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 14:23:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 14:23:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 17:30:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 17:30:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 19:59:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 19:59:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 20:10:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 20:10:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 21:44:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 21:44:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 21:49:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 21:49:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 21:54:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 21:54:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 21:58:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 21:58:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 22:18:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 22:18:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 22:19:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 22:19:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 22:25:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[04-Dec-2023 22:25:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[04-Dec-2023 22:26:29 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[05-Dec-2023 06:54:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 06:54:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 09:03:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 09:03:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 10:56:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 10:56:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 11:02:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 11:02:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 11:15:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 11:15:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 11:46:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 11:46:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 13:25:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 13:25:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 15:12:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 15:12:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 15:51:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 15:51:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 15:52:43 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[05-Dec-2023 15:54:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 15:54:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 16:16:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 16:16:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 16:17:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 16:17:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 16:24:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 16:24:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 16:41:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 16:41:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 16:44:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 16:44:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 18:06:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 18:06:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 18:12:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 18:12:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 19:10:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 19:10:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 19:16:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 19:16:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 19:51:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 19:51:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 21:23:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 21:23:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 21:27:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 21:27:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 21:27:08 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[05-Dec-2023 21:27:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 21:27:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 21:29:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 21:29:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[05-Dec-2023 21:29:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[05-Dec-2023 21:29:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 06:30:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 06:30:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 06:31:00 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[06-Dec-2023 08:06:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 08:06:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 08:08:07 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[06-Dec-2023 10:43:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 10:43:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 12:00:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 12:00:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 12:01:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 12:01:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 14:42:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 14:42:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 14:43:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 14:43:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 15:18:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 15:18:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 15:23:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 15:23:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 15:23:51 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[06-Dec-2023 16:04:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 16:04:48 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 17:14:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 17:14:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 17:16:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 17:16:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 17:32:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 17:32:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 17:34:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 17:34:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 17:50:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 17:50:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 18:25:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 18:25:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 18:41:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 18:41:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 19:59:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 19:59:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 20:56:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 20:56:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 21:07:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 21:07:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 21:18:43 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 21:18:43 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 21:19:03 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[06-Dec-2023 21:24:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 21:24:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[06-Dec-2023 21:39:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[06-Dec-2023 21:39:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 06:26:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 06:26:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 09:03:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 09:03:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 09:04:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 09:04:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 09:46:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 09:46:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 09:46:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 09:46:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 10:27:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 10:27:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 12:28:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 12:28:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 14:42:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 14:42:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 18:24:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 18:24:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 20:03:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 20:03:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 20:33:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 20:33:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 21:00:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 21:00:52 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[07-Dec-2023 21:03:02 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[07-Dec-2023 21:32:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[07-Dec-2023 21:32:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Dec-2023 06:27:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Dec-2023 06:27:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Dec-2023 10:21:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Dec-2023 10:21:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Dec-2023 10:22:52 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/swiftmob/public_html/admin/dashboard/transactions.php on line 41
+[08-Dec-2023 10:57:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Dec-2023 10:57:53 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Dec-2023 11:24:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Dec-2023 11:24:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[08-Dec-2023 12:45:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 82
+[08-Dec-2023 12:45:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/public_html/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:23:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:23:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:34:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:34:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:35:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:35:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:36:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:36:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:37:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:37:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:43:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:43:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:47:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:47:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97
+[09-Dec-2023 04:50:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 82
+[09-Dec-2023 04:50:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/swiftmob/demo.swiftmobile.com.ng/admin/dashboard/dashboard.php on line 97

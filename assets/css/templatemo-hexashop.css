@@ -145,7 +145,7 @@ body {
     overflow-x: hidden;
   }
   
-#inner{border:0px white solid;background-color:none;
+#inner{border:10px green solid;background-color:none;
 
   text-align: center;display:inline-block;position:  absolute;left:0%;width:80%}
   #policy{display:inline-block}
@@ -157,6 +157,7 @@ body {
   .nav{background-color:yellow;border:0px black solid;display:inline-block;position: relative;width:80%;font-size:8px;}
 
   .nav li{font-size:5px;}
+  
   .mobile-top-fix {
     margin-top: 30px;
     margin-bottom: 0px;
@@ -567,7 +568,7 @@ header
   }
 #policy{display: inline-block;border:2px red solid;width:300px;height:200px;}
 
-  .inner-content{border:0px green solid}
+  
 }
 
 @media (max-width: 767px) {
@@ -576,12 +577,14 @@ header
   }
   #policy{display:block}
   
-#inner{border:0px white solid;background-color:none;
+#inner{border:5px red solid;background-color:none;
 
   text-align: center;display:inline-block;position:
   absolute;left:0%;width:80%}
+
+  #inner h4{font-size:40px;}
+  .left-content{border:0px blue solid;position:relative;top:20px;}
   
-  .inner-content{border:0px green solid}
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
     color: #aaa!important;
@@ -686,6 +689,8 @@ header
     text-align: center;display:inline-block;position:
     absolute;left:9%;width:80%}
     #policy{display: none;}
+
+    #top{border:3px red solid}
 }
 
 

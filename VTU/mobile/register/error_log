@@ -1,0 +1,9 @@
+[08-Dec-2023 13:09:57 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user '#'@'localhost' (using password: YES) in /home/swiftmob/demo.swiftmobile.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/swiftmob/demo.swiftmobile.com.ng/core/Models/Model.php(30): PDO->__construct('mysql:host=loca...', '#', '#')
+#1 /home/swiftmob/demo.swiftmobile.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/swiftmob/demo.swiftmobile.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/swiftmob/demo.swiftmobile.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/swiftmob/demo.swiftmobile.com.ng/mobile/register/index.php(24): require_once('/home/swiftmob/...')
+#5 {main}
+  thrown in /home/swiftmob/demo.swiftmobile.com.ng/core/Models/Model.php on line 30
